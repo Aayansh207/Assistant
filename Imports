@@ -1,0 +1,12 @@
+pip install pyttsx3
+pip install pyperclip
+pip install speech_recognition
+pip install wikipedia
+pip install math
+pip install webbrowser
+pip install pygame
+pip install pyjokes
+pip install os
+pip install pywhatkit
+pip install os-sys
+sudo pip install pil
